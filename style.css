@@ -38,9 +38,8 @@ font-weight:bold;
 
 .intro_bg{
     background-image:url("image/intro.png.png");
-    width:100%;
+    width:auto;
     height:718px;
-    overflow: visible;
  }
 
  .header{
